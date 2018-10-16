@@ -81,13 +81,13 @@
         "test": "npm run compile && node ./node_modules/vscode/bin/test"
     },
     "devDependencies": {
-        "@types/lodash": "^4.14.97",
+        "@types/lodash": "^4.14.117",
         "@types/mocha": "^2.2.42",
-        "@types/node": "^7.0.43",
-        "typescript": "^2.6.1",
-        "vscode": "^1.1.6"
+        "@types/node": "^7.10.0",
+        "typescript": "^2.9.2",
+        "vscode": "^1.1.21"
     },
     "dependencies": {
-        "lodash": "^4.17.4"
+        "lodash": "^4.17.11"
     }
 }
