@@ -10,7 +10,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/selmansener/vscode-i18n-manager"
+        "url": "https://github.com/oplog/vscode-i18n-manager"
     },
     "engines": {
         "vscode": "^1.19.0"
